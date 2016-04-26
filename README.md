@@ -1,0 +1,2 @@
+# sopcco
+Sistema de informacion
