@@ -5,8 +5,7 @@ $dire=$_POST["dire"];
 $tel=$_POST["tel"];
 $ped=$_POST["ped"];
 $ele=$_POST["ele"];
-
-$db=mysql_connect("127.0.0.1","root","usrio01");
+$db=mysql_connect("localhost","root","");
 mysql_select_db("pedidoscodalca",$db);
 mysql_query("insert into pedidos values('$ced','$nom','$dire','$tel','$ped','$ele')");
 ?>
@@ -14,7 +13,7 @@ mysql_query("insert into pedidos values('$ced','$nom','$dire','$tel','$ped','$el
 
 <html>
   <head>
-    <title>Titulo</title>
+    <title>CODALCA</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <script type="text/javascript" src="js/jquery-2.2.3.js"></script>    
     <script type="text/javascript" src="js/bootstrap.js"></script>

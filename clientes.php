@@ -19,9 +19,9 @@
         </div>
 
         <div class="col-md-4">
-          <h1>PEDIDOS</h1>
+          <h1>CLIENTES</h1>
             
-            <form action="guardar.php" method="post">
+            <form action="guardarclientes.php" method="post">
 
               <div class="form-group">
                 <label for="exampleInputEmail1">CEDULA</label>
@@ -44,13 +44,8 @@
               </div> 
 
               <div class="form-group">
-                <label for="exampleInputEmail1">PEDIDO</label>
-                <input type="text" class="form-control" placeholder="" name="ped">
-              </div> 
-
-              <div class="form-group">
                 <label for="exampleInputEmail1">CORREO</label>
-                <input type="email" class="form-control" placeholder="email" name="ele">
+                <input type="text" class="form-control" placeholder="@" name="ele">
               </div> 
 
               <button type="submit" class="btn btn-default">ENVIAR</button>
