@@ -11,12 +11,20 @@ mysql_query("insert into pedidos values('$ced','$nom','$dire','$tel','$ped','$el
 ?>
 
 
+
+
 <html>
   <head>
     <title>CODALCA</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <script type="text/javascript" src="js/jquery-2.2.3.js"></script>    
     <script type="text/javascript" src="js/bootstrap.js"></script>
+
+      <style type="text/css">
+        #escudo{
+          width: 40px;
+        }
+      </style>
 
   </head>
   <body>
@@ -28,7 +36,7 @@ mysql_query("insert into pedidos values('$ced','$nom','$dire','$tel','$ped','$el
 
         <div class="col-md-4">
           <div class="well">
-            <h1>Registro guardado</h1>
+            <h1>REGISTRO GUARDADO</h1>
             <a href="pedidos.html">Registrar otro pedido</a>
           </div>
         </div>

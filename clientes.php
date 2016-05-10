@@ -6,9 +6,14 @@
     <title>CODALCA</title>
 
     <link rel="stylesheet" href="css/bootstrap.css">
-
       <script type="text/javascript" src="js/jquery-2.2.3.js"></script>    
       <script type="text/javascript" src="js/bootstrap.js"></script>
+
+      <style type="text/css">
+        #escudo{
+          width: 40px;
+        }
+      </style>
 
   </head>
   <body>
@@ -55,7 +60,7 @@
 
 
         <div class="col-md-8">
-          <img src="codalca1.jpg" alt="" class="img-responsive">
+          <img src="codalca.jpg" alt="" class="img-responsive" width="700">
           <hr>
           <div class="well">
 
