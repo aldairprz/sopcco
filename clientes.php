@@ -65,7 +65,7 @@
           <div class="well">
 
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia velit dolores, reprehenderit. Id dolorem voluptas asperiores vel aperiam fugiat aliquid ab ipsa pariatur tenetur atque, laboriosam, unde. Repudiandae, quas? Illo.
+              El principal objetivo de este canal de comunicacion, es dar a conocer nuestra empresa, comunicar lo que somos y hacemos, asi como los valores que fomentamos. Usted podra encontrar aqui de una manera agil y directa, una amplia descripcion de nuestros productos.
             </p>
           </div>
         </div>

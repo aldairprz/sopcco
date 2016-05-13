@@ -26,16 +26,16 @@
         <div class="col-md-5">
           <h1></h1>
           <hr>
-          <img src="codalca.jpg" alt="" class="img-responsive">
+          <img src="codalca.jpg" alt="" class="img-responsive" width="500">
                  
         </div>
         <div class="col-md-7">
           <h1>BIENVENIDOS A CODALCA</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum delectus, id temporibus vitae repudiandae. Numquam voluptatem nesciunt eligendi corrupti tempora natus illum, nihil ullam repudiandae fugit consequuntur, iure obcaecati ratione.
+           El principal objetivo de este canal de comunicacion, es dar a conocer nuestra empresa, comunicar lo que somos y hacemos, asi como los valores que fomentamos. Usted podra encontrar aqui de una manera agil y directa, una amplia descripcion de nuestros productos.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde magni iusto dolores recusandae a, tenetur, inventore? Repudiandae illo ut assumenda saepe incidunt nostrum sunt molestiae. Commodi quo provident vitae id?
+            Codalca s.a.s una empresa dedicada a la comercializacion  y distribucion de productos y carnicos. Se encuentran ubicada en la carrera 38 # 114-39 en la ciudad de barranquilla. Nuestro compromiso nos han posicionado como una empresa sinonimo de excelencia y calidad en el mercado de productos carnicos a nivel regional. Trabajamos productos (bovino, porcino y pollo) que cumplen los mas altos estandares de calidad, gracias a una seleccion detallada de proveedores y al compromiso de trabajar continuamente con ellos para lograr mejoramientos continuos en toda la cadena productiva.
           </p>
         </div>
 
